@@ -1,0 +1,25 @@
+{
+    "name": "Steven Dulcey",
+    "linkedin": "n/a",
+    "github": "https://github.com/stevendulcey24",
+    "email": "stevendulcey0@gmail.com",
+    "resume": "comeback later",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
